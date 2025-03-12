@@ -1,0 +1,6 @@
+Error: LinkageError occurred while loading main class com.redhat.exhort.Main
+	java.lang.UnsupportedClassVersionError: com/redhat/exhort/Main has been compiled by a more recent version of the Java Runtime (class file version 64.0), this version of the Java Runtime only recognizes class file versions up to 61.0
+[Warn  - 1:22:26 PM] Component Analysis Error: Error: Command failed: java -DRHDA_TOKEN=4e9f35f8-8cea-4bcc-bf6e-2723b0fe45f4 -DRHDA_SOURCE=vscode -DEXHORT_SYFT_PATH=syft -DEXHORT_SKOPEO_PATH=skopeo -DEXHORT_DOCKER_PATH=docker -DEXHORT_PODMAN_PATH=podman -jar /google/devshell/editor/code-oss-for-cloud-shell/extensions/redhat.fabric8-analytics/dist/../javaApiAdapter/exhort-java-api-adapter-1.0-SNAPSHOT-jar-with-dependencies.jar json node:18-alpine
+Error: LinkageError occurred while loading main class com.redhat.exhort.Main
+	java.lang.UnsupportedClassVersionError: com/redhat/exhort/Main has been compiled by a more recent version of the Java Runtime (class file version 64.0), this version of the Java Runtime only recognizes class file versions up to 61.0
+

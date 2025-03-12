@@ -1,0 +1,13 @@
+0 verbose cli /usr/local/nvm/versions/node/v22.14.0/bin/node /usr/local/nvm/versions/node/v22.14.0/bin/npm
+1 info using npm@11.2.0
+2 info using node@v22.14.0
+3 silly config load:file:/usr/local/nvm/versions/node/v22.14.0/lib/node_modules/npm/npmrc
+4 silly config load:file:/home/jo_carlos_1776/crm-frontend/.npmrc
+5 silly config load:file:/home/jo_carlos_1776/.npmrc
+6 silly config load:file:/usr/local/nvm/versions/node/v22.14.0/etc/npmrc
+7 verbose title npm start
+8 verbose argv "start"
+9 verbose logfile logs-max:10 dir:/home/jo_carlos_1776/.npm/_logs/2025-03-12T18_03_31_480Z-
+10 verbose logfile /home/jo_carlos_1776/.npm/_logs/2025-03-12T18_03_31_480Z-debug-0.log
+11 silly logfile start cleaning logs, removing 1 files
+12 silly logfile done cleaning log files

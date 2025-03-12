@@ -1,0 +1,60 @@
+0 verbose cli /usr/local/nvm/versions/node/v22.14.0/bin/node /usr/local/nvm/versions/node/v22.14.0/bin/npm
+1 info using npm@11.2.0
+2 info using node@v22.14.0
+3 silly config load:file:/usr/local/nvm/versions/node/v22.14.0/lib/node_modules/npm/npmrc
+4 silly config load:file:/home/jo_carlos_1776/.cache/typescript/5.6/.npmrc
+5 silly config load:file:/home/jo_carlos_1776/.npmrc
+6 silly config load:file:/usr/local/nvm/versions/node/v22.14.0/etc/npmrc
+7 verbose title npm install @types/express@ts5.6 @types/nodemon@ts5.6
+8 verbose argv "install" "--ignore-scripts" "@types/express@ts5.6" "@types/nodemon@ts5.6" "--save-dev" "--user-agent" "typesInstaller/5.6.3"
+9 verbose logfile logs-max:10 dir:/home/jo_carlos_1776/.npm/_logs/2025-03-12T17_56_34_934Z-
+10 verbose logfile /home/jo_carlos_1776/.npm/_logs/2025-03-12T17_56_34_934Z-debug-0.log
+11 silly logfile start cleaning logs, removing 1 files
+12 silly packumentCache heap:2197815296 maxSize:549453824 maxEntrySize:274726912
+13 silly logfile done cleaning log files
+14 silly packumentCache corgi:https://registry.npmjs.org/@types%2fexpress cache-miss
+15 silly packumentCache corgi:https://registry.npmjs.org/@types%2fnodemon cache-miss
+16 http fetch GET 200 https://registry.npmjs.org/@types%2fexpress 187ms (cache updated)
+17 silly packumentCache corgi:https://registry.npmjs.org/@types%2fexpress set size:undefined disposed:false
+18 http fetch GET 200 https://registry.npmjs.org/@types%2fnodemon 242ms (cache updated)
+19 silly packumentCache corgi:https://registry.npmjs.org/@types%2fnodemon set size:undefined disposed:false
+20 silly idealTree buildDeps
+21 silly fetch manifest @types/express@5.0.0
+22 silly packumentCache full:https://registry.npmjs.org/@types%2fexpress cache-miss
+23 http fetch GET 200 https://registry.npmjs.org/@types%2fexpress 50ms (cache updated)
+24 silly packumentCache full:https://registry.npmjs.org/@types%2fexpress set size:undefined disposed:false
+25 silly fetch manifest @types/nodemon@1.19.6
+26 silly packumentCache full:https://registry.npmjs.org/@types%2fnodemon cache-miss
+27 http fetch GET 200 https://registry.npmjs.org/@types%2fnodemon 89ms (cache updated)
+28 silly packumentCache full:https://registry.npmjs.org/@types%2fnodemon set size:undefined disposed:false
+29 silly placeDep ROOT @types/express@5.0.0 REPLACE for:  want: 5.0.0
+30 silly placeDep ROOT @types/nodemon@1.19.6 REPLACE for:  want: 1.19.6
+31 silly reify moves {}
+32 silly audit bulk request {
+32 silly audit   '@types/body-parser': [ '1.19.5' ],
+32 silly audit   '@types/connect': [ '3.4.38' ],
+32 silly audit   '@types/express-serve-static-core': [ '5.0.6' ],
+32 silly audit   '@types/http-errors': [ '2.0.4' ],
+32 silly audit   '@types/merge-descriptors': [ '1.0.3' ],
+32 silly audit   '@types/mime': [ '1.3.5' ],
+32 silly audit   '@types/node': [ '22.13.4' ],
+32 silly audit   '@types/qs': [ '6.9.18' ],
+32 silly audit   '@types/range-parser': [ '1.2.7' ],
+32 silly audit   '@types/react': [ '19.0.10' ],
+32 silly audit   '@types/react-dom': [ '19.0.4' ],
+32 silly audit   '@types/send': [ '0.17.4' ],
+32 silly audit   '@types/serve-static': [ '1.15.7' ],
+32 silly audit   csstype: [ '3.1.3' ],
+32 silly audit   'types-registry': [ '0.1.711' ],
+32 silly audit   'undici-types': [ '6.20.0' ],
+32 silly audit   '@types/express': [ '5.0.0' ],
+32 silly audit   '@types/nodemon': [ '1.19.6' ]
+32 silly audit }
+33 http fetch POST 200 https://registry.npmjs.org/-/npm/v1/security/advisories/bulk 127ms
+34 silly audit report {}
+35 verbose cwd /home/jo_carlos_1776/.cache/typescript/5.6
+36 verbose os Linux 6.6.72+
+37 verbose node v22.14.0
+38 verbose npm  v11.2.0
+39 verbose exit 0
+40 info ok

@@ -1,0 +1,63 @@
+I0312 02:30:31.936127    7551 serve.go:43] cloudcode_cli (Feb 19 2025 21:00:54 -0800, cl:728935864 baseline:726298444)
+I0312 02:30:31.937146    7551 serve.go:44] Command line: ["/home/jo_carlos_1776/.cache/cloud-code/cloudcode_cli/cloudcode_cli/6e759dbf/cloudcode_cli" "duet" "-logtostderr"]
+I0312 02:30:31.939680    7551 life_cycle.go:166] Initializing. Architecture: "amd64", Operating system: "linux"
+I0312 02:30:32.141065    7551 configuration.go:182] product updateChannel will be used
+I0312 02:30:32.141129    7551 configuration.go:642] language thresholds: map[]
+I0312 02:30:32.141150    7551 configuration.go:600] dataFileExtensions array: [.csv .tsv .jsonl]
+I0312 02:30:32.141174    7551 configuration.go:853] atlas codeCompletion llm options: {MaxTokens:64 Temp:0.2 Samples:4 EnablePrompt:<nil> PromptOverride: PostProcess:0xc0018329cd StopSequences:map[] DataFilePromptLines:0}
+I0312 02:30:32.141238    7551 configuration.go:853] atlas codeGeneration llm options: {MaxTokens:512 Temp:0.2 Samples:4 EnablePrompt:<nil> PromptOverride: PostProcess:0xc0018329ed StopSequences:map[*:[[eod] [EOF] [pre] [suf] [mid]]] DataFilePromptLines:5}
+I0312 02:30:32.141380    7551 configuration.go:270] Configured settings for atlasOpts: {"Addr":"","QuotaProject":"","Project":"","LogPrompt":true,"UseTypeoverCache":true,"EnablePromptEnhancementForTransform":false,"EnablePromptEnhancementForChat":false,"EnableAdminCitationBlock":false,"EnableChatStreaming":false,"Complete":{"MaxTokens":64,"Temp":0.2,"Samples":4,"EnablePrompt":null,"PromptOverride":"","PostProcess":true,"StopSequences":null,"DataFilePromptLines":0},"Generate":{"MaxTokens":512,"Temp":0.2,"Samples":4,"EnablePrompt":null,"PromptOverride":"","PostProcess":true,"StopSequences":{"*":["[eod]","[EOF]","[pre]","[suf]","[mid]"]},"DataFilePromptLines":5},"DataFileExtensions":[".csv",".tsv",".jsonl"]}
+I0312 02:30:32.141423    7551 configuration.go:278] Configured settings for cloudCodeOpts: {"Addr":"","QuotaProject":"","Project":"","LogPrompt":true,"UseTypeoverCache":true,"EnablePromptEnhancementForTransform":false,"EnablePromptEnhancementForChat":false,"EnableAdminCitationBlock":false,"EnableChatStreaming":false}
+I0312 02:30:32.141435    7551 configuration.go:282] Configured settings for opts: &{trace:false atlasAddr:cloudaicompanion.googleapis.com:443 cloudCodeAddr:cloudcode-pa.googleapis.com:443 cloudCodeQuotaProject: autoGen:false invokeGen:true codeCacheMaxEntries:1024 completionOpts:{debounce:300000000 throttle:100000000 minScoreThreshold:-6 languageThresholds:map[] enableThresholds:true commentCompletion:false citationLengthThreshold:-1 enableRecitations:true citationLogFilePath: repeatedStringFilterThreshold:60 otherFilesGenerationLimit:20 otherFilesGenerationSizeLimit:-1 otherFilesCompletionLimit:0 multiQueryTailNSForCompletion:[] multiQueryTailNSForGeneration:[]} contextExclusionFile:.aiexclude chatOpts:{contextOrdering:fsu maxFileBytes:75000 maxHistoryBytes:500000 escapeContext:false otherFilesLimit:20 otherFilesSizeLimit:-1 userSelectedFilesSizeLimit:-1} useRest:<nil> useCloudCodeAPI:true enableNotebooks:false enableRAGL:false enableRAGLCompletion:false enableRAGLChat:false ragLRerankByLangBoost:0 raglCoLocated:20 raglTotalFiles:250 raglFileLimit:524288 raglIncludeDocFiles:false raglIncludeUnitTestFile:false raglMaxFileSearchDepth:1 substringsToIdentifyTestPrompts:[test] substringsToIdentifyDocPrompts:[document comment] raglTopKTestFilesToInclude:0 raglTopKDocFilesToInclude:0}
+I0312 02:30:32.141488    7551 configuration.go:284] Configured settings for canCancelRequests: true
+I0312 02:30:32.141498    7551 configuration.go:286] Configured settings for contextPromptOpts: &{Endpoint:}
+I0312 02:32:42.066428    7551 handler.go:159] cancel was requested for: 4, needs to be canceled: false
+I0312 02:32:42.066453    7551 handler.go:163] cancel requested for 4 but not found
+I0312 02:40:32.143771    7551 life_cycle.go:261] codeReportBasicEvery: recomputing codereportbasic metric
+E0312 02:41:24.891534    7551 retention.go:641] Failed to get offsets at range due to: start offset: invalid column number
+E0312 02:41:24.891579    7551 retention.go:641] Failed to get offsets at range due to: end offset: invalid column number
+E0312 02:41:24.891588    7551 retention.go:641] Failed to get offsets at range due to: start offset: invalid column number
+W0312 02:41:24.891600    7551 retention.go:173] Could not get offsets for range in document. range: &{{4 9} {5 3}}, error: invalid column number
+W0312 02:41:24.891620    7551 retention.go:173] Could not get offsets for range in document. range: &{{12 0} {13 18}}, error: invalid column number
+W0312 02:41:24.891626    7551 retention.go:173] Could not get offsets for range in document. range: &{{14 12} {15 3}}, error: invalid column number
+I0312 02:41:32.143759    7551 life_cycle.go:297] codeReportEvery: recomputing codereport metric
+W0312 02:41:46.667531    7551 retention.go:173] Could not get offsets for range in document. range: &{{4 9} {5 3}}, error: invalid column number
+W0312 02:41:46.667582    7551 retention.go:173] Could not get offsets for range in document. range: &{{12 0} {13 18}}, error: invalid column number
+W0312 02:41:46.667590    7551 retention.go:173] Could not get offsets for range in document. range: &{{14 12} {15 3}}, error: invalid column number
+E0312 02:41:46.673375    7551 retention.go:641] Failed to get offsets at range due to: end offset: invalid column number
+E0312 02:41:46.673404    7551 retention.go:641] Failed to get offsets at range due to: start offset: invalid column number
+W0312 02:41:46.673422    7551 retention.go:173] Could not get offsets for range in document. range: &{{16 58} {17 16}}, error: invalid column number
+W0312 02:41:46.673445    7551 retention.go:173] Could not get offsets for range in document. range: &{{18 5} {19 3}}, error: invalid column number
+I0312 02:42:32.143228    7551 life_cycle.go:297] codeReportEvery: recomputing codereport metric
+I0312 02:45:39.520485    7551 handler.go:159] cancel was requested for: 14, needs to be canceled: false
+I0312 02:45:39.520510    7551 handler.go:163] cancel requested for 14 but not found
+W0312 02:45:41.936904    7551 retention.go:173] Could not get offsets for range in document. range: &{{16 58} {17 16}}, error: invalid column number
+W0312 02:45:41.936960    7551 retention.go:173] Could not get offsets for range in document. range: &{{18 5} {19 3}}, error: invalid column number
+E0312 02:45:41.937996    7551 retention.go:641] Failed to get offsets at range due to: end offset: invalid column number
+E0312 02:45:41.938034    7551 retention.go:641] Failed to get offsets at range due to: start offset: invalid column number
+W0312 02:45:41.938052    7551 retention.go:173] Could not get offsets for range in document. range: &{{14 61} {15 16}}, error: invalid column number
+W0312 02:45:41.938069    7551 retention.go:173] Could not get offsets for range in document. range: &{{16 5} {17 0}}, error: invalid column number
+W0312 02:45:41.938090    7551 document.go:267] Error computing chars added only: getting byte offset for end of change range: invalid line number
+I0312 02:46:32.142734    7551 life_cycle.go:297] codeReportEvery: recomputing codereport metric
+W0312 02:50:23.592152    7551 retention.go:173] Could not get offsets for range in document. range: &{{14 61} {15 16}}, error: invalid column number
+W0312 02:50:23.592198    7551 retention.go:173] Could not get offsets for range in document. range: &{{16 5} {17 0}}, error: invalid column number
+E0312 02:50:23.593482    7551 retention.go:641] Failed to get offsets at range due to: start offset: invalid column number
+W0312 02:50:23.593533    7551 retention.go:173] Could not get offsets for range in document. range: &{{17 30} {18 0}}, error: invalid column number
+I0312 02:50:32.143443    7551 life_cycle.go:261] codeReportBasicEvery: recomputing codereportbasic metric
+I0312 02:50:32.143578    7551 life_cycle.go:297] codeReportEvery: recomputing codereport metric
+W0312 02:56:32.811232    7551 retention.go:173] Could not get offsets for range in document. range: &{{17 30} {18 0}}, error: invalid column number
+E0312 02:56:32.811377    7551 retention.go:641] Failed to get offsets at range due to: start offset: invalid column number
+W0312 02:56:32.811396    7551 retention.go:173] Could not get offsets for range in document. range: &{{19 30} {20 0}}, error: invalid column number
+W0312 02:56:32.811494    7551 retention.go:173] Could not get offsets for range in document. range: &{{19 30} {20 0}}, error: invalid column number
+E0312 02:56:32.811730    7551 retention.go:641] Failed to get offsets at range due to: start offset: invalid column number
+W0312 02:56:32.811751    7551 retention.go:173] Could not get offsets for range in document. range: &{{19 30} {20 0}}, error: invalid column number
+W0312 02:56:55.492456    7551 retention.go:173] Could not get offsets for range in document. range: &{{19 30} {20 0}}, error: invalid column number
+E0312 02:56:55.492556    7551 retention.go:641] Failed to get offsets at range due to: start offset: invalid column number
+W0312 02:56:55.492584    7551 retention.go:173] Could not get offsets for range in document. range: &{{21 30} {22 0}}, error: invalid column number
+W0312 02:56:55.492692    7551 retention.go:173] Could not get offsets for range in document. range: &{{21 30} {22 0}}, error: invalid column number
+E0312 02:56:55.492861    7551 retention.go:641] Failed to get offsets at range due to: start offset: invalid column number
+W0312 02:56:55.492874    7551 retention.go:173] Could not get offsets for range in document. range: &{{21 30} {22 0}}, error: invalid column number
+I0312 02:57:32.143607    7551 life_cycle.go:297] codeReportEvery: recomputing codereport metric
+I0312 02:59:53.825868    7551 handler.go:159] cancel was requested for: 40, needs to be canceled: false
+I0312 02:59:53.825888    7551 handler.go:163] cancel requested for 40 but not found
+I0312 03:00:32.143395    7551 life_cycle.go:261] codeReportBasicEvery: recomputing codereportbasic metric

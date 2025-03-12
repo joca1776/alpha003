@@ -1,0 +1,28 @@
+2025-02-17 22:26:43.183 [info] 
+
+
+
+
+2025-02-17 22:26:43.194 [info] Extension host agent started.
+2025-02-17 22:26:43.207 [info] Started initializing default profile extensions in extensions installation folder. file:///home/jo_carlos_1776/.codeoss/extensions
+2025-02-17 22:26:43.217 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/jo_carlos_1776/.codeoss/extensions
+2025-02-17 22:26:48.067 [info] [127.0.0.1][d9b2b6d5][ManagementConnection] New connection established.
+2025-02-17 22:26:48.262 [info] [127.0.0.1][5e9e8397][ExtensionHostConnection] New connection established.
+2025-02-17 22:26:49.957 [info] [127.0.0.1][5e9e8397][ExtensionHostConnection] <1221> Launched Extension Host Process.
+2025-02-17 22:34:31.079 [info] [127.0.0.1][723f5a1f][ManagementConnection] New connection established.
+2025-02-17 22:34:31.224 [info] [127.0.0.1][4170520a][ExtensionHostConnection] New connection established.
+2025-02-17 22:34:31.229 [info] [127.0.0.1][4170520a][ExtensionHostConnection] <1481> Launched Extension Host Process.
+2025-02-17 22:34:35.410 [warning] RequestStore#acceptReply was called without receiving a matching request 37
+2025-02-17 22:34:35.410 [warning] RequestStore#acceptReply was called without receiving a matching request 38
+2025-02-17 22:34:35.410 [warning] RequestStore#acceptReply was called without receiving a matching request 39
+2025-02-17 22:34:35.410 [warning] RequestStore#acceptReply was called without receiving a matching request 40
+2025-02-17 22:34:35.410 [warning] RequestStore#acceptReply was called without receiving a matching request 41
+2025-02-17 22:34:35.410 [warning] RequestStore#acceptReply was called without receiving a matching request 42
+2025-02-17 22:34:35.410 [warning] RequestStore#acceptReply was called without receiving a matching request 43
+2025-02-17 22:34:35.411 [warning] RequestStore#acceptReply was called without receiving a matching request 44
+2025-02-17 22:34:35.411 [warning] RequestStore#acceptReply was called without receiving a matching request 45
+2025-02-17 22:34:35.411 [warning] RequestStore#acceptReply was called without receiving a matching request 46
+2025-02-17 22:34:35.411 [warning] RequestStore#acceptReply was called without receiving a matching request 47
+2025-02-17 22:34:35.411 [warning] RequestStore#acceptReply was called without receiving a matching request 48
+2025-02-17 22:34:57.288 [info] [127.0.0.1][723f5a1f][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2025-02-17 22:47:44.959 [info] [127.0.0.1][d9b2b6d5][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.

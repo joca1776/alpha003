@@ -1,0 +1,39 @@
+2025-03-11 21:46:10.598 [info] 
+
+
+
+
+2025-03-11 21:46:10.613 [info] Extension host agent started.
+2025-03-11 21:46:16.206 [info] [127.0.0.1][2c9670b3][ManagementConnection] New connection established.
+2025-03-11 21:46:16.283 [info] [127.0.0.1][79903f7c][ExtensionHostConnection] New connection established.
+2025-03-11 21:46:17.111 [info] [127.0.0.1][79903f7c][ExtensionHostConnection] <1825> Launched Extension Host Process.
+2025-03-11 21:49:39.104 [info] [127.0.0.1][2c9670b3][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+2025-03-11 21:49:53.021 [info] [127.0.0.1][2c9670b3][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+2025-03-11 21:49:53.022 [info] [127.0.0.1][84877e32][ManagementConnection] New connection established.
+2025-03-11 21:49:53.121 [info] [127.0.0.1][11d51cbf][ExtensionHostConnection] New connection established.
+2025-03-11 21:49:53.125 [info] [127.0.0.1][11d51cbf][ExtensionHostConnection] <2390> Launched Extension Host Process.
+2025-03-11 21:54:53.119 [info] [127.0.0.1][2c9670b3][ManagementConnection] The reconnection short grace time of 5m has expired, so the connection will be disposed.
+2025-03-11 21:54:53.417 [info] [127.0.0.1][79903f7c][ExtensionHostConnection] <1825> Extension Host Process exited with code: 0, signal: null.
+2025-03-12 01:03:20.810 [info] [127.0.0.1][84877e32][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2025-03-12 01:57:20.797 [info] [127.0.0.1][600d9c32][ManagementConnection] New connection established.
+2025-03-12 01:57:20.893 [info] [127.0.0.1][d701d480][ExtensionHostConnection] New connection established.
+2025-03-12 01:57:20.898 [info] [127.0.0.1][d701d480][ExtensionHostConnection] <5734> Launched Extension Host Process.
+2025-03-12 01:59:52.328 [warning] [File Watcher (node.js)] Watcher shutdown because watched path got deleted
+2025-03-12 02:01:49.319 [warning] [File Watcher (node.js)] Watcher shutdown because watched path got deleted
+2025-03-12 02:02:21.290 [info] [127.0.0.1][11d51cbf][ExtensionHostConnection] <2390> Extension Host Process exited with code: 0, signal: null.
+2025-03-12 02:29:32.991 [info] [127.0.0.1][600d9c32][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2025-03-12 02:30:09.945 [info] [127.0.0.1][56f15895][ManagementConnection] New connection established.
+2025-03-12 02:30:10.062 [info] [127.0.0.1][40edb63c][ExtensionHostConnection] New connection established.
+2025-03-12 02:30:10.067 [info] [127.0.0.1][40edb63c][ExtensionHostConnection] <7324> Launched Extension Host Process.
+2025-03-12 02:35:10.222 [info] [127.0.0.1][d701d480][ExtensionHostConnection] <5734> Extension Host Process exited with code: 0, signal: null.
+2025-03-12 02:59:53.685 [info] [127.0.0.1][56f15895][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2025-03-12 03:16:07.459 [info] [127.0.0.1][9ca41a2e][ManagementConnection] New connection established.
+2025-03-12 03:16:07.657 [info] [127.0.0.1][54f4da15][ExtensionHostConnection] New connection established.
+2025-03-12 03:16:07.662 [info] [127.0.0.1][54f4da15][ExtensionHostConnection] <8899> Launched Extension Host Process.
+2025-03-12 03:21:07.871 [info] [127.0.0.1][40edb63c][ExtensionHostConnection] <7324> Extension Host Process exited with code: 0, signal: null.
+2025-03-12 03:43:40.269 [info] [127.0.0.1][9ca41a2e][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2025-03-12 03:53:11.367 [info] [127.0.0.1][d3187068][ManagementConnection] New connection established.
+2025-03-12 03:53:11.550 [info] [127.0.0.1][cd09544f][ExtensionHostConnection] New connection established.
+2025-03-12 03:53:11.554 [info] [127.0.0.1][cd09544f][ExtensionHostConnection] <10668> Launched Extension Host Process.
+2025-03-12 03:57:46.983 [info] [127.0.0.1][d3187068][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2025-03-12 03:58:11.766 [info] [127.0.0.1][54f4da15][ExtensionHostConnection] <8899> Extension Host Process exited with code: 0, signal: null.

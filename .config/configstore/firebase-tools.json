@@ -1,0 +1,46 @@
+{
+	"motd": {
+		"cloudBuildErrorAfter": 1594252800000,
+		"cloudBuildWarnAfter": 1590019200000,
+		"defaultNode10After": 1594252800000,
+		"minVersion": "3.0.5",
+		"node8DeploysDisabledAfter": 1613390400000,
+		"node8RuntimeDisabledAfter": 1615809600000,
+		"node8WarnAfter": 1600128000000,
+		"fetched": 1741727755505
+	},
+	"loginScopes": [
+		"email",
+		"openid",
+		"https://www.googleapis.com/auth/cloudplatformprojects.readonly",
+		"https://www.googleapis.com/auth/firebase",
+		"https://www.googleapis.com/auth/cloud-platform"
+	],
+	"additionalAccounts": [],
+	"activeAccounts": {},
+	"usage": true,
+	"analytics-uuid": "bc604516-76e4-4732-b7e6-4d9eb6c7cc2b",
+	"user": {
+		"iss": "accounts.google.com",
+		"azp": "563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com",
+		"aud": "563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com",
+		"sub": "111379837065717284214",
+		"email": "jo.carlos.1776@gmail.com",
+		"email_verified": true,
+		"at_hash": "usHNxeypnJ7BYy3KzN7-zg",
+		"iat": 1741728879,
+		"exp": 1741732479
+	},
+	"tokens": {
+		"expires_at": 1741732478051,
+		"access_token": "ya29.a0AeXRPp6uiuXSykTd2c-5jY9kLk_Gm0wke6ABaxIR2A5SUymmYCTCK3jnAR6MzQTKSkEbnuebzho7RGaaS-wO6lWuPoXrhGiEc62Jx6mT87PRmp2gOljwcCiK9t3aAvHDWR-R0cp7ehGgbMEacqqNkylhlaDD9zHlZKNPMVg4ufkBuQaCgYKASYSARISFQHGX2MiTe1eOgz-QiRTzXjgdrhi8g0181",
+		"expires_in": 3599,
+		"refresh_token": "1//05mW6u3tEzB1rCgYIARAAGAUSNwF-L9IrdW43kGF2ptlxJZQsXHC-ZZ7utNGNQplRyHMrfNeJnGJh7Xnm3Xn8Gii67DTPa3thGd4",
+		"scope": "https://www.googleapis.com/auth/cloud-platform https://www.googleapis.com/auth/cloudplatformprojects.readonly https://www.googleapis.com/auth/firebase https://www.googleapis.com/auth/userinfo.email openid",
+		"token_type": "Bearer",
+		"id_token": "eyJhbGciOiJSUzI1NiIsImtpZCI6IjkxNGZiOWIwODcxODBiYzAzMDMyODQ1MDBjNWY1NDBjNmQ0ZjVlMmYiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJhY2NvdW50cy5nb29nbGUuY29tIiwiYXpwIjoiNTYzNTg0MzM1ODY5LWZncmhnbWQ0N2JxbmVraWo1aThiNXByMDNobzg0OWU2LmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwiYXVkIjoiNTYzNTg0MzM1ODY5LWZncmhnbWQ0N2JxbmVraWo1aThiNXByMDNobzg0OWU2LmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwic3ViIjoiMTExMzc5ODM3MDY1NzE3Mjg0MjE0IiwiZW1haWwiOiJqby5jYXJsb3MuMTc3NkBnbWFpbC5jb20iLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwiYXRfaGFzaCI6InVzSE54ZXlwbko3Qll5M0t6TjctemciLCJpYXQiOjE3NDE3Mjg4NzksImV4cCI6MTc0MTczMjQ3OX0.BAJKRD5fgxfbQW7vDDAFhTKkOb4Xv9FF7lmlppP9MBdcJyDfpPLYv9hJB-jqXImN_fwUVt35-wMCilqM0cr8uNFCDdD3oJoh3LvlVQlrBShN_07kOBEcVj1nlvnruIVgQ7kvAL4e6Ey3GdxnAe9oJ42Em7s2a2qVt5uSpntuErp9_pEIJx9LPYgAjOLOkzcU9bzONQne_Wbfsouz3hOx683kkOc_7xEx6IAQ3aMboxDBQlauv1rhK3mvr_KYAg3OAQUBThtEB9oADRevgQxSOi-IElaAZhR1d5ncDs89u4eWChsutNvtT5fiLrG9knsY_XnVwP1ytNs2xl4LM0wheQ"
+	},
+	"activeProjects": {
+		"/home/jo_carlos_1776/crm-frontend": "crm-alpha-6913d"
+	}
+}

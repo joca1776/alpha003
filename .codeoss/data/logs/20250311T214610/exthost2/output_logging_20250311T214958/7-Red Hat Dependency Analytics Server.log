@@ -1,0 +1,96 @@
+npm error code EJSONPARSE
+npm error JSON.parse Invalid package.json: JSONParseError: Expected ',' or '}' after property value in JSON at position 531 (line 20 column 5) while parsing near "...-scripts start\"\n    \"build\": \"react-scri..."
+npm error JSON.parse Failed to parse JSON data.
+npm error JSON.parse Note: package.json must be actual JSON, not just JavaScript.
+npm error A complete log of this run can be found in: /home/jo_carlos_1776/.npm/_logs/2025-03-11T21_56_17_378Z-debug-0.log
+[Warn  - 9:56:19 PM] Component Analysis Error: Error: Command failed: npm i --package-lock-only --prefix /home/jo_carlos_1776/crm-frontend
+npm error code EJSONPARSE
+npm error JSON.parse Invalid package.json: JSONParseError: Expected ',' or '}' after property value in JSON at position 531 (line 20 column 5) while parsing near "...-scripts start\"\n    \"build\": \"react-scri..."
+npm error JSON.parse Failed to parse JSON data.
+npm error JSON.parse Note: package.json must be actual JSON, not just JavaScript.
+npm error A complete log of this run can be found in: /home/jo_carlos_1776/.npm/_logs/2025-03-11T21_56_17_378Z-debug-0.log
+
+npm error code EJSONPARSE
+npm error path /home/jo_carlos_1776/crm-frontend/package.json
+npm error JSON.parse Expected ',' or '}' after property value in JSON at position 531 (line 20 column 5) while parsing near "...-scripts start\"\n    \"build\": \"react-scri..."
+npm error JSON.parse Failed to parse JSON data.
+npm error JSON.parse Note: package.json must be actual JSON, not just JavaScript.
+npm error A complete log of this run can be found in: /home/jo_carlos_1776/.npm/_logs/2025-03-11T21_56_19_920Z-debug-0.log
+[Warn  - 9:56:20 PM] Component Analysis Error: Error: Command failed: npm i --package-lock-only --prefix /home/jo_carlos_1776/crm-frontend
+npm error code EJSONPARSE
+npm error path /home/jo_carlos_1776/crm-frontend/package.json
+npm error JSON.parse Expected ',' or '}' after property value in JSON at position 531 (line 20 column 5) while parsing near "...-scripts start\"\n    \"build\": \"react-scri..."
+npm error JSON.parse Failed to parse JSON data.
+npm error JSON.parse Note: package.json must be actual JSON, not just JavaScript.
+npm error A complete log of this run can be found in: /home/jo_carlos_1776/.npm/_logs/2025-03-11T21_56_19_920Z-debug-0.log
+
+npm error code EJSONPARSE
+npm error path /home/jo_carlos_1776/crm-frontend/package.json
+npm error JSON.parse Expected ',' or '}' after property value in JSON at position 529 (line 20 column 5) while parsing near "...-scripts start\"\n    \"build\": \"react-scri..."
+npm error JSON.parse Failed to parse JSON data.
+npm error JSON.parse Note: package.json must be actual JSON, not just JavaScript.
+npm error A complete log of this run can be found in: /home/jo_carlos_1776/.npm/_logs/2025-03-11T21_56_23_347Z-debug-0.log
+[Warn  - 9:56:23 PM] Component Analysis Error: Error: Command failed: npm i --package-lock-only --prefix /home/jo_carlos_1776/crm-frontend
+npm error code EJSONPARSE
+npm error path /home/jo_carlos_1776/crm-frontend/package.json
+npm error JSON.parse Expected ',' or '}' after property value in JSON at position 529 (line 20 column 5) while parsing near "...-scripts start\"\n    \"build\": \"react-scri..."
+npm error JSON.parse Failed to parse JSON data.
+npm error JSON.parse Note: package.json must be actual JSON, not just JavaScript.
+npm error A complete log of this run can be found in: /home/jo_carlos_1776/.npm/_logs/2025-03-11T21_56_23_347Z-debug-0.log
+
+npm error code EJSONPARSE
+npm error path /home/jo_carlos_1776/crm-frontend/package.json
+npm error JSON.parse Expected ',' or '}' after property value in JSON at position 529 (line 20 column 5) while parsing near "...-scripts start\"\n    \"build\": \"react-scri..."
+npm error JSON.parse Failed to parse JSON data.
+npm error JSON.parse Note: package.json must be actual JSON, not just JavaScript.
+npm error A complete log of this run can be found in: /home/jo_carlos_1776/.npm/_logs/2025-03-11T21_56_29_797Z-debug-0.log
+[Warn  - 9:56:30 PM] Component Analysis Error: Error: Command failed: npm i --package-lock-only --prefix /home/jo_carlos_1776/crm-frontend
+npm error code EJSONPARSE
+npm error path /home/jo_carlos_1776/crm-frontend/package.json
+npm error JSON.parse Expected ',' or '}' after property value in JSON at position 529 (line 20 column 5) while parsing near "...-scripts start\"\n    \"build\": \"react-scri..."
+npm error JSON.parse Failed to parse JSON data.
+npm error JSON.parse Note: package.json must be actual JSON, not just JavaScript.
+npm error A complete log of this run can be found in: /home/jo_carlos_1776/.npm/_logs/2025-03-11T21_56_29_797Z-debug-0.log
+
+npm error code EJSONPARSE
+npm error path /home/jo_carlos_1776/crm-frontend/package.json
+npm error JSON.parse Expected ',' or '}' after property value in JSON at position 529 (line 20 column 5) while parsing near "...-scripts start\"\n    \"build\": \"react-scri..."
+npm error JSON.parse Failed to parse JSON data.
+npm error JSON.parse Note: package.json must be actual JSON, not just JavaScript.
+npm error A complete log of this run can be found in: /home/jo_carlos_1776/.npm/_logs/2025-03-12T00_59_03_475Z-debug-0.log
+[Warn  - 12:59:03 AM] Component Analysis Error: Error: Command failed: npm i --package-lock-only --prefix /home/jo_carlos_1776/crm-frontend
+npm error code EJSONPARSE
+npm error path /home/jo_carlos_1776/crm-frontend/package.json
+npm error JSON.parse Expected ',' or '}' after property value in JSON at position 529 (line 20 column 5) while parsing near "...-scripts start\"\n    \"build\": \"react-scri..."
+npm error JSON.parse Failed to parse JSON data.
+npm error JSON.parse Note: package.json must be actual JSON, not just JavaScript.
+npm error A complete log of this run can be found in: /home/jo_carlos_1776/.npm/_logs/2025-03-12T00_59_03_475Z-debug-0.log
+
+npm error code EJSONPARSE
+npm error path /home/jo_carlos_1776/crm-frontend/package.json
+npm error JSON.parse Expected ',' or '}' after property value in JSON at position 590 (line 24 column 3) while parsing near "...scripts eject\"\n}\n\n  \"eslintConfig\": {\n  ..."
+npm error JSON.parse Failed to parse JSON data.
+npm error JSON.parse Note: package.json must be actual JSON, not just JavaScript.
+npm error A complete log of this run can be found in: /home/jo_carlos_1776/.npm/_logs/2025-03-12T01_00_47_320Z-debug-0.log
+[Warn  - 1:00:47 AM] Component Analysis Error: Error: Command failed: npm i --package-lock-only --prefix /home/jo_carlos_1776/crm-frontend
+npm error code EJSONPARSE
+npm error path /home/jo_carlos_1776/crm-frontend/package.json
+npm error JSON.parse Expected ',' or '}' after property value in JSON at position 590 (line 24 column 3) while parsing near "...scripts eject\"\n}\n\n  \"eslintConfig\": {\n  ..."
+npm error JSON.parse Failed to parse JSON data.
+npm error JSON.parse Note: package.json must be actual JSON, not just JavaScript.
+npm error A complete log of this run can be found in: /home/jo_carlos_1776/.npm/_logs/2025-03-12T01_00_47_320Z-debug-0.log
+
+npm error code EJSONPARSE
+npm error path /home/jo_carlos_1776/crm-frontend/package.json
+npm error JSON.parse Unexpected end of JSON input while parsing empty string
+npm error JSON.parse Failed to parse JSON data.
+npm error JSON.parse Note: package.json must be actual JSON, not just JavaScript.
+npm error A complete log of this run can be found in: /home/jo_carlos_1776/.npm/_logs/2025-03-12T01_01_43_581Z-debug-0.log
+[Warn  - 1:01:43 AM] Component Analysis Error: Error: Command failed: npm i --package-lock-only --prefix /home/jo_carlos_1776/crm-frontend
+npm error code EJSONPARSE
+npm error path /home/jo_carlos_1776/crm-frontend/package.json
+npm error JSON.parse Unexpected end of JSON input while parsing empty string
+npm error JSON.parse Failed to parse JSON data.
+npm error JSON.parse Note: package.json must be actual JSON, not just JavaScript.
+npm error A complete log of this run can be found in: /home/jo_carlos_1776/.npm/_logs/2025-03-12T01_01_43_581Z-debug-0.log
+

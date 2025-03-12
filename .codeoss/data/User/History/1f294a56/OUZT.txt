@@ -1,0 +1,20 @@
+backend
+  app.js
+  db.js
+  Dockerfile
+crm-frontend
+  build
+  src/
+  components/
+    Header.js
+    Sidebar.js
+    CustomerCard.js
+  pages/
+    Dashboard.js
+    Customers.js
+    Sales.js
+  services/
+    api.js
+  App.js
+  index.js
+
