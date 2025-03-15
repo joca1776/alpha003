@@ -1,0 +1,84 @@
+.headerFormat {
+    min-height: 20vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: white;
+    border-radius: 20px; /* Borda arredondada */
+    padding: 20px; /* Padding de 20px nas 4 direções */
+ 
+    
+
+    background: linear-gradient(300deg, #eb41f0, #00bfff, #ff4c68);
+    background-size: 180% 180%;
+    animation: gradient-animation 18s ease infinite;
+    padding: 20px; /* Adicione padding para o conteúdo não ficar colado nas bordas */
+    text-align: center; /* Centraliza o conteúdo do header */
+    color: white; /* Garante que o texto seja legível no gradiente */
+
+
+  
+
+
+ 
+    
+}
+  
+
+@keyframes App-logo-spin {
+    from {
+      transform: rotate(0deg);
+    }
+    to {
+      transform: rotate(360deg);
+    }
+}
+
+@keyframes App-logo-spin {
+    from {
+      transform: rotate(0deg);
+    }
+    to {
+      transform: rotate(360deg);
+    }
+}
+
+
+@keyframes gradient-animation {
+    0% {
+      background-position: 0% 50%;
+    }
+    50% {
+      background-position: 100% 50%;
+    }
+    100% {
+      background-position: 0% 50%;
+    }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+    .App-logo {
+      animation: App-logo-spin infinite 20s linear;
+    }
+}
+
+nav {
+    display: flex; /* Alinha os links horizontalmente */
+    justify-content: center; /* Centraliza os links horizontalmente */
+    gap: 20px; /* Espaçamento entre os links */
+  }
+  
+  nav a {
+    color: white; /* Cor do texto dos links */
+    text-decoration: none; /* Remove o sublinhado padrão */
+    font-size: 1.2em; /* Tamanho da fonte */
+    padding: 10px 15px; /* Padding interno para os links */
+    border-radius: 5px; /* Borda arredondada para os links */
+    transition: background-color 0.3s ease; /* Transição suave para a cor de fundo */
+  }
+  
+  nav a:hover {
+    background-color: rgba(255, 255, 255, 0.2); /* Cor de fundo ao passar o mouse */
+  }

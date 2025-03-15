@@ -1,0 +1,47 @@
+/* Customers.css */
+.customers-container {
+    background-color: #ff4c68;
+    border-radius: 20px;
+    max-width: calc(100% - 40px);
+    margin: 20px auto;
+    padding: 20px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
+  }
+  
+  .customers-title {
+    text-align: center;
+    color: white;
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .customers-search {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    border: 1px solid #ccc;
+    outline: none;
+    font-size: 16px;
+  }
+  
+  .loading-text {
+    text-align: center;
+    color: #fff;
+  }
+  
+  .error-text {
+    text-align: center;
+    color: #ffcccc;
+  }
+  
+  .customers-list {
+    display: grid;
+    gap: 10px;
+  }
+  
+  .no-customers {
+    text-align: center;
+    color: #ffe0e0;
+  }
+  
